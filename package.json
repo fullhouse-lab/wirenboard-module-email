@@ -1,0 +1,22 @@
+{
+  "name": "wirenboard-module-email",
+  "version": "1.1.0",
+  "description": "Email manager",
+  "main": "./wb-rules-modules/email.js",
+  "keywords": [
+    "wirenboard",
+    "wb",
+    "module",
+    "email",
+    "fullhouse"
+  ],
+  "author": "FullHouse <support@fullhouse-online.ru>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullhouse-lab/wirenboard-module-email.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fullhouse-lab/wirenboard-module-email/issues/"
+  },
+  "license": "ISC"
+}
